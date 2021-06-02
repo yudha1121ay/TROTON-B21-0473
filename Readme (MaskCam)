@@ -1,0 +1,11 @@
+This is not full version app
+
+Feature :
+1. Integrated with FCM
+2. Alarm manager (07:30 AM), you can switch it off if you want.
+3. Live data covid-19 from "api.kawalcorona.com" for all of provence in Indonesia and all countries
+
+Next update :
+1. User guide (inside app with a special button)
+2. Real time push notification (if cloud computing was done)
+3. Optimizing (checking memory leaks, dll)
