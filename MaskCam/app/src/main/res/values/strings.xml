@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MaskCam</string>
+    <string name="mulai">MULAI</string>
+    <string name="live_data_covid_19">Live Data COVID-19</string>
+    <string name="total_positif">Total Positif</string>
+    <string name="total_siswa">Total Siswa</string>
+    <string name="dunia">Dunia</string>
+    <string name="terdeteksi">Terdeteksi</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="home">Beranda</string>
+    <string name="livedata">Live Data COVID-19</string>
+    <string name="positif">Positif</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="sembuh">Sembuh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="live_data_provinsi">Live Data Provinsi</string>
+    <string name="total">Total</string>
+    <string name="live_data_dunia">Live Data Dunia</string>
+</resources>
