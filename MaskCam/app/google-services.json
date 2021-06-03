@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463111410359",
+    "project_id": "bangkit-maskcam",
+    "storage_bucket": "bangkit-maskcam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463111410359:android:f9dd7b007ec8413cd27332",
+        "android_client_info": {
+          "package_name": "com.bangkit.maskcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463111410359-bnnnstutj6tvsshe9gmrib2sgjk5j4v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7rDbdg8XB9uNBb8Ui0TGUSIn6BRKoCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463111410359-bnnnstutj6tvsshe9gmrib2sgjk5j4v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
